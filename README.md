@@ -1,2 +1,2 @@
 # Super-Market_SQL
-Indepth analysis of Super-Market using SQL
+	Analyzing customer purchasing behavior of Super-Market using SQL
